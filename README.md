@@ -17,7 +17,7 @@
 				<h3 align="center" color="white">Breaking Bad - Infopage</h2>
 				<div align="center" >  
 					<a href='https://github.com/regishani/adventure'>
-						<img src="https://github.com/regishani/github_readme/blob/main/ezgif.com-gif-maker.gif" alt="Adventure" height="100%" />
+						<img src="https://github.com/regishani/github_readme/blob/main/adventure.gif" alt="Adventure" height="100%" />
 					</a>
 					<br>
 					<br>
@@ -36,7 +36,7 @@
 				<h3 align="center" color="white">NASA</h2>
 				<div align="center" >  
 					<a href='https://github.com/regishani/nasa'>
-						<img src="https://github.com/regishani/github_readme/blob/main/nasa_AdobeExpress.gif" alt="What is happening in the Universe" height="100%" />
+						<img src="https://github.com/regishani/github_readme/blob/main/nasa.gif" alt="What is happening in the Universe" height="100%" />
 					</a>
 					<br>
 					<br>
