@@ -13,10 +13,10 @@
 <div align="center">
 	<table>
 		<tr>
-			<td width="100%" valign="top">
+			<td width="50%" valign="top">
 				<h3 align="center" color="red">ADVENTURE</h2>
 				<div align="center" >  
-					<a href='https://ethodeus.github.io/breaking-bad-info-page/'>
+					<a href='https://github.com/regishani/adventure'>
 						<img src="https://github.com/regishani/github_readme/blob/main/ezgif.com-gif-maker.gif" alt="Adventure" height="100%" />
 					</a>
 					<br>
@@ -26,6 +26,26 @@
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://youradventure.netlify.app" target="_blank">
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+						</a>	
+					</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - Platform for travelers to explore the world!</p>
+				</div>
+			</td>
+			
+			<td width="50%" valign="top">
+				<h3 align="center" color="red">ADVENTURE</h2>
+				<div align="center" >  
+					<a href='https://github.com/regishani/nasa'>
+						<img src="https://github.com/regishani/github_readme/blob/main/nasa_AdobeExpress.gif" alt="NASA" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/regishani/nasa" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://nasaview.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 						</a>	
 					</p>
