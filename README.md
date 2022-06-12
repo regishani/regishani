@@ -14,7 +14,7 @@
 	<table>
 		<tr>
 			<td width="50%" valign="top">
-				<h3 align="center" color="red">ADVENTURE</h2>
+				<h3 align="center" color="white">Breaking Bad - Infopage</h2>
 				<div align="center" >  
 					<a href='https://github.com/regishani/adventure'>
 						<img src="https://github.com/regishani/github_readme/blob/main/ezgif.com-gif-maker.gif" alt="Adventure" height="100%" />
@@ -29,15 +29,14 @@
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5</strong> - Platform for travelers to explore the world!</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - Platform for Breaking Bad fans to find general information about their favorite characters!</p>
 				</div>
 			</td>
-			
 			<td width="50%" valign="top">
-				<h3 align="center" color="red">ADVENTURE</h2>
+				<h3 align="center" color="white">NASA</h2>
 				<div align="center" >  
 					<a href='https://github.com/regishani/nasa'>
-						<img src="https://github.com/regishani/github_readme/blob/main/nasa_AdobeExpress.gif" alt="NASA" height="100%" />
+						<img src="https://github.com/regishani/github_readme/blob/main/nasa_AdobeExpress.gif" alt="What is happening in the Universe" height="100%" />
 					</a>
 					<br>
 					<br>
@@ -45,14 +44,13 @@
 						<a href="https://github.com/regishani/nasa" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://nasaview.netlify.app/" target="_blank">
+						<a href="https://nasaview.netlify.app" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5</strong> - Platform for travelers to explore the world!</p>
+					 <p><strong>JavaScript, CSS3, HTML5</strong> - Simple app to help you decide which drinks to make at your party!</p>
 				</div>
-			</td>
-		
+	<tr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
