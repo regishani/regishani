@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://youradventure.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=#630000"/>
+    <img src="https://img.shields.io/badge/-website-red?style=for-the-badge&color=#630000"/>
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - A simple information-based travel website for people who love exploring places.</p>
