@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
   </a>  
   <a href="https://quootes.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/-website-darkred?style=for-the-badge&color=#630000"/>
+    <img src="https://img.shields.io/badge/-website-red?style=for-the-badge&color=#630000"/>
   </a>
       </p>
         <p><strong>Java Script, React, HTML, CSS</strong> -Quotes often open the eyes and the mind to understand truths and acknowledge things you otherwise would have missed. Reading quotes can improve how you feel and change your mood for the better. </p>
@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://nasaview.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=#630000"/>
+    <img src="https://img.shields.io/badge/-website-red?style=for-the-badge&color=#630000"/>
   </a>
       </p>
         <p><strong>Javascript, HTML, CSS </strong> - Explore the universe </p>
@@ -81,7 +81,7 @@
     <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://healthia.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=#630000"/>
+    <img src="https://img.shields.io/badge/-website-red?style=for-the-badge&color=#630000"/>
   </a>
       </p>
         <p><strong>HTML5, & Javascript</strong> - Healthia makes mental health service accessible and affordable to everyone. At Healthia, you'll connect to a group of people in a safe space to get and give support!</p>
