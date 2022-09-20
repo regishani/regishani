@@ -8,68 +8,87 @@
 - 📫 How to reach me **regina.zhyldyzbekova@gmail.com**
 
 <!-- PROJECTS -->
+<h1 align="center">Projects</h1>
+<table>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Quootes</h3>
+        <br />
+        <a target="_blank" href="https://quootes.netlify.app">
+            <img src="assets/quootes.gif" width="100%" alt="Quotes"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/regishani/quotesAPI" target="_blank">
+    <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+  </a>  
+  <a href="https://quootes.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=#630000"/>
+  </a>
+      </p>
+        <p><strong>Java Script, React, HTML, CSS</strong> -Quotes often open the eyes and the mind to understand truths and acknowledge things you otherwise would have missed. Reading quotes can improve how you feel and change your mood for the better. </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">NASA</h3>
+        <br />
+      <a target="_blank" href="https://nasaview.netlify.app">
+            <img src="assets/nasa.gif" width="100%"  alt="nasa"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/regishani/nasa" target="_blank">
+    <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://nasaview.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=#630000"/>
+  </a>
+      </p>
+        <p><strong>Javascript, HTML, CSS </strong> - Explore the universe </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Adventure</h3>
+      <br />
+        <a target="_blank" href="https://youradventure.netlify.app">
+          <img src="assets/adventure.gif" width="100%" alt="Adventure"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/regishani/adventure" target="_blank">
+    <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://youradventure.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=#630000"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - A simple information-based travel website for people who love exploring places.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Healthia</h3>
+        <br />
+        <a target="_blank" href="https://healthia.netlify.app">
+          <img src="assets/healthia.gif" width="100%" alt="Healthia"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/regishani/healthia" target="_blank">
+    <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://healthia.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=#630000"/>
+  </a>
+      </p>
+        <p><strong>HTML5, & Javascript</strong> - Healthia makes mental health service accessible and affordable to everyone. At Healthia, you'll connect to a group of people in a safe space to get and give support!</p>
+    </td>
+  </tr>
+</table>
 
-<h2 align="center" color="white">Projects</h2>
-<div align="center">
-	<table>
-		<tr>
-			<td width="50%" valign="top">
-				<h3 align="center" color="white">Breaking Bad - Infopage</h2>
-				<div align="center" >  
-					<a href='https://github.com/regishani/adventure'>
-						<img src="https://github.com/regishani/github_readme/blob/main/adventure.gif" alt="Adventure" height="100%" />
-					</a>
-					<br>
-					<br>
-					<p>
-						<a href="https://github.com/regishani/adventure" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://youradventure.netlify.app" target="_blank">
-							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
-						</a>	
-					</p>
-					<p><strong>JavaScript, CSS3, HTML5</strong> - Platform for Breaking Bad fans to find general information about their favorite characters!</p>
-				</div>
-			</td>
-			<td width="50%" valign="top">
-				<h3 align="center" color="white">NASA</h2>
-				<div align="center" >  
-					<a href='https://github.com/regishani/nasa'>
-						<img src="https://github.com/regishani/github_readme/blob/main/nasa.gif" alt="What is happening in the Universe" height="100%" />
-					</a>
-					<br>
-					<br>
-					<p>
-						<a href="https://github.com/regishani/nasa" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://nasaview.netlify.app" target="_blank">
-							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
-						</a>	
-					</p>
-					 <p><strong>JavaScript, CSS3, HTML5</strong> - Simple app to help you decide which drinks to make at your party!</p>
-				</div>
-	<td>
-	<td width="50%" valign="top">
-				<h3 align="center" color="white">NASA</h2>
-				<div align="center" >  
-					<a href='https://github.com/regishani/nasa'>
-						<img src="https://github.com/regishani/github_readme/blob/main/nasa.gif" alt="What is happening in the Universe" height="100%" />
-					</a>
-					<br>
-					<br>
-					<p>
-						<a href="https://github.com/regishani/nasa" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://nasaview.netlify.app" target="_blank">
-							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
-						</a>	
-					</p>
-					 <p><strong>JavaScript, CSS3, HTML5</strong> - Simple app to help you decide which drinks to make at your party!</p>
-				</div>
-	<td>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
