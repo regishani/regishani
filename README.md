@@ -50,7 +50,26 @@
 					</p>
 					 <p><strong>JavaScript, CSS3, HTML5</strong> - Simple app to help you decide which drinks to make at your party!</p>
 				</div>
-	<tr>
+	<td>
+	<td width="50%" valign="top">
+				<h3 align="center" color="white">NASA</h2>
+				<div align="center" >  
+					<a href='https://github.com/regishani/nasa'>
+						<img src="https://github.com/regishani/github_readme/blob/main/nasa.gif" alt="What is happening in the Universe" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/regishani/nasa" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://nasaview.netlify.app" target="_blank">
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+						</a>	
+					</p>
+					 <p><strong>JavaScript, CSS3, HTML5</strong> - Simple app to help you decide which drinks to make at your party!</p>
+				</div>
+	<td>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
